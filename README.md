@@ -7,8 +7,6 @@ Hey everyone, I’m Rukmini, an aspiring Backend Developer with a strong foundat
 
 📂 All my projects are available at My GitHub Repositories
 
-📬 Reach me at: aadipman26@gmail.com
-
 ⚡ Fun fact: I enjoy solving DSA problems and learning about scalable software systems
 
 ## 🔧 Technologies & Tools I Use
